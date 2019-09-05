@@ -1,0 +1,22 @@
+    * {
+        margin: 5px;
+        padding: 5px;
+        box-sizing: border-box
+    }
+    
+    .banner {
+        background-image: url('img/views.jpg');
+        background-size: cover;
+        min-height: 600px;
+        background-position: top bottom;
+    }
+    
+    .container {
+        max-width: 1200px;
+        margin-block-start: 200px;
+    }
+    
+    .class {
+        padding: 5px 10px;
+        scroll-margin: 8px;
+    }
